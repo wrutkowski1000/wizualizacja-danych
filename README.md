@@ -1,2 +1,3 @@
-# wizualizacja-danych
-Zajecia z przedmiotu wizualizacja danych.
+# Wizualizacja Danych
+
+**Numer indeksu:** 150428
