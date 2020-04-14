@@ -16,5 +16,19 @@ class Slowa:
         else:
             print("Nie jest palindromem")
 
-slowka = Slowa("skkrrrrr", "kajak");
+    def metagram(self, slowo1, slowo2):
+        blad = 0
+        if (len(slowo1) != len(slowo2)):
+            print("Nie sa")
+        else:
+            for i in range(len(slowo1)):
+                if slowo1[i] != slowo2[i]:
+                    blad = blad + 1
+        if blad <= 1:
+            print("Sa metagramem")
+        else:
+            print("Nie sa")
+
+slowka = Slowa("kujak", "kajak");
 slowka.palindrom(slowka.tabslow[1])
+slowka.metagram(slowka.tabslow[0], slowka.tabslow[1])
