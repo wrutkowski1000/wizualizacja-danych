@@ -1,8 +1,11 @@
 class Robal:
-    def init (self, rx, ry, rkrok):
+    def __init__(self, rx, ry, rkrok):
         self.x = rx
         self.y = ry
         self.krok = rkrok
+
+    def __del__(self):
+        print("Robak zdechl")
 
     def idz_w_gore(self, kroki):
         self.y = self.y + kroki * self.krok
@@ -20,8 +23,10 @@ class Robal:
         print("x={}, y={}".format(self.x, self.y))
 
 robal = Robal(1,2,5)
-robal.idz_w_gore(3)
-robal.idz_w_dol(1)
-robal.idz_w_lewo(3)
+robal.pokaz_gdzie_jestes()
+robal.idz_w_gore(5)
+robal.idz_w_dol(3)
+robal.idz_w_lewo(2)
 robal.idz_w_prawo(1)
 robal.pokaz_gdzie_jestes()
+del(robal)
