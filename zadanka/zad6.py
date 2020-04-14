@@ -1,7 +1,7 @@
 class Slowa:
     global tabslow
-    def __init__(self, slowo1, slowo2):
-        self.tabslow = [slowo1, slowo2]
+    def __init__(self, slowa):
+        self.tabslow = slowa
 
     def palindrom(self, slowo):
         pal = 0
@@ -48,7 +48,12 @@ class Slowa:
             else:
                 print("Nie sa anagramem")
 
-slowka = Slowa("kakrak", "kajak");
+    def wyswietl(self):
+        for i in range(len(self.tabslow)):
+            print (self.tabslow[i])
+
+slowka = Slowa(["kakrak", "kajak"]);
 slowka.palindrom(slowka.tabslow[1])
 slowka.metagram(slowka.tabslow[0], slowka.tabslow[1])
 slowka.anagram(slowka.tabslow[0], slowka.tabslow[1])
+slowka.wyswietl()
