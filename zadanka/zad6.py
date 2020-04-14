@@ -4,9 +4,17 @@ class Slowa:
         self.tabslow = [slowo1, slowo2]
 
     def palindrom(self, slowo):
-        for i in int(len(slowo)):
-            if slowo[i] == slowo[int(len(slowo))-i] and i == int(len(slowo)):
-                print("Jest palindromem")
+        pal = 0
+        for i in range(len(slowo)):
+            if slowo[i] == slowo[len(slowo)-i-1]:
+                pal = 1
             else:
-                print("Nie jest palindromem")
+                pal = 0
 
+        if pal == 1:
+            print("Jest palindromem")
+        else:
+            print("Nie jest palindromem")
+
+slowka = Slowa("skkrrrrr", "kajak");
+slowka.palindrom(slowka.tabslow[1])
