@@ -20,9 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="71652db3-80ef-422d-96a7-c04daa1bf3c8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/l5zad6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/l5zad7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/l5zad8.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +89,7 @@
       <option name="presentableId" value="Default" />
       <updated>1586883030595</updated>
       <workItem from="1586883050528" duration="11904000" />
-      <workItem from="1587907070501" duration="13866000" />
+      <workItem from="1587907070501" duration="14467000" />
     </task>
     <servers />
   </component>
