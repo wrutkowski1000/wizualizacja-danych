@@ -29,8 +29,37 @@ class Kwadrat(Ksztalty):
     def __add__(self, other):
         return Kwadrat(self.x + other.x)
 
+    def __ge__(self, other):
+        if self.x >= other.x:
+            return 1
+        else:
+            return 0
+
+    def __gt__(self, other):
+        if self.x > other.x:
+            return 1
+        else:
+            return 0
+
+    def __le__(self, other):
+        if self.x <= other.x:
+            return 1
+        else:
+            return 0
+
+    def __lt__(self, other):
+        if self.x < other.x:
+            return 1
+        else:
+            return 0
+
+
 k1 = Kwadrat(5)
 k2 = Kwadrat(10)
 k3 = k1 + k2
-print(k3.x)
+
+if k2 > k1:
+    print(k3.x)
+else:
+    print("k2 musi byc wieksze")
 
