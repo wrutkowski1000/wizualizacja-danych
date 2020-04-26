@@ -20,8 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="71652db3-80ef-422d-96a7-c04daa1bf3c8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/l5zad6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/l5zad7.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/l5zad5.py" beforeDir="false" afterPath="$PROJECT_DIR$/l5zad5.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +49,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/l5zad5.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/l5zad7.py" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -56,7 +57,7 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="l5zad5" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+    <configuration name="l5zad7" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="zadanka" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -69,7 +70,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/l5zad5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/l5zad7.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -90,7 +91,7 @@
       <option name="presentableId" value="Default" />
       <updated>1586883030595</updated>
       <workItem from="1586883050528" duration="11904000" />
-      <workItem from="1587907070501" duration="8838000" />
+      <workItem from="1587907070501" duration="13866000" />
     </task>
     <servers />
   </component>
@@ -110,30 +111,30 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587918827197">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587926056380">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1587918827197" />
-    <state x="548" y="167" key="FileChooserDialogImpl" timestamp="1587918825405">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1587926056380" />
+    <state x="548" y="167" key="FileChooserDialogImpl" timestamp="1587926054775">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="548" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1587918825405" />
-    <state width="1493" height="114" key="GridCell.Tab.0.bottom" timestamp="1587920925454">
+    <state x="548" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1587926054775" />
+    <state width="1493" height="114" key="GridCell.Tab.0.bottom" timestamp="1587926970306">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="114" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587920925454" />
-    <state width="1493" height="114" key="GridCell.Tab.0.center" timestamp="1587920925454">
+    <state width="1493" height="114" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587926970306" />
+    <state width="1493" height="114" key="GridCell.Tab.0.center" timestamp="1587926970306">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="114" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587920925454" />
-    <state width="1493" height="114" key="GridCell.Tab.0.left" timestamp="1587920925454">
+    <state width="1493" height="114" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587926970306" />
+    <state width="1493" height="114" key="GridCell.Tab.0.left" timestamp="1587926970306">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="114" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587920925454" />
-    <state width="1493" height="114" key="GridCell.Tab.0.right" timestamp="1587920925454">
+    <state width="1493" height="114" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587926970306" />
+    <state width="1493" height="114" key="GridCell.Tab.0.right" timestamp="1587926970306">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="114" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587920925454" />
+    <state width="1493" height="114" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587926970306" />
     <state width="1493" height="57" key="GridCell.Tab.1.bottom" timestamp="1587918567529">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -164,6 +165,6 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/zadanka$zadanka.coverage" NAME="zad4 Coverage Results" MODIFIED="1586898031416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/zadanka$zad4.coverage" NAME="l5zad5 Coverage Results" MODIFIED="1587920925439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/zadanka$zad4.coverage" NAME="l5zad7 Coverage Results" MODIFIED="1587926970299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
