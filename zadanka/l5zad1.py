@@ -1,9 +1,5 @@
 class Material:
 
-    rodzaj = ""
-    dlugosc = 0
-    szerokosc = 0
-
     def __init__(self, r, d, s):
         self.rodzaj = r
         self.dlugosc = d
@@ -13,9 +9,6 @@ class Material:
         print(self.rodzaj)
 
 class Ubrania(Material):
-    rozmiar = 0
-    kolor = ""
-    dla_kogo = ""
 
     def __init__(self, r, d, s, roz, kolo, dla):
         self.rodzaj = r
@@ -29,7 +22,6 @@ class Ubrania(Material):
         print("rozmiar: ",self.rozmiar, " , kolor: ", self.kolor, " , dla: ", self.dla_kogo);
 
 class Sweter(Ubrania):
-    rodzaj_swetra = ""
 
     def __init__(self, d, s, roz, kolo, dla, rswetra):
         self.rodzaj = "sweter"
