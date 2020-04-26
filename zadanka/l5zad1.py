@@ -21,7 +21,11 @@ class Ubrania:
         print("rozmiar: " ,self.rozmiar , " , kolor: " , self.kolor , " , dla: " , self.dla_kogo);
 
 class Sweter:
-    
+    rodzaj_swetra = ""
+    def wyswietl_dane(self):
+        print("rozmiar: ", self.rozmiar, " , kolor: ", self.kolor, " , dla: ", self.dla_kogo, " rodzaj swetra: ", self.rodzaj_swetra);
+
+        
 ubranko = Ubrania()
 ubranko.dla_kogo = "dla mnie"
 ubranko.kolor = "czarny"
